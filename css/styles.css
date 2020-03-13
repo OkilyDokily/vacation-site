@@ -1,5 +1,20 @@
-.panel > .panel-heading {
-  background-image: none;
+.panel > .red-heading {
   background-color: red;
   color: white;
+}
+
+.vacation-packages .panel-heading {
+  background-color: blue;
+  color: white
+} 
+
+.vacation-packages {
+  text-align: center;
+}
+
+
+body {background-color: beige;}
+
+p{
+  text-indent: 10px;
 }
